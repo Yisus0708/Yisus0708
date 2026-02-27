@@ -1,4 +1,4 @@
-# 👋 Hello guys!
+# 👋 Hello guys :D!
 
 I'm **Jesús Cantillo**, I'm a 🐍 **Python developer in training**, specialized in 🤖 **Artificial Intelligence (AI)**.
 
