@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello guys!
 
-<!--
-**Yisus0708/Yisus0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jesús Cantillo**, I'm a 🐍 **Python developer in training**, specialized in 🤖 **Artificial Intelligence (AI)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm currently working on **AI-based projects, automation tools, and software development**, while learning **machine learning, data analysis, and advanced Python programming**.
+
+---
+
+## 🚀 Tech Stack & Skills
+- 🐍 Python  
+- 🤖 Artificial Intelligence (AI)  
+- 🧠 Machine Learning  
+- 📊 Data Analysis  
+- 🗄️ Databases & SQL  
+- 🌐 JavaScript  
+- ☕ Java  
+
+---
+
+## ❤️ Interests & Passions
+I'm passionate about **programming, artificial intelligence, technology, problem solving, and continuous learning**.
