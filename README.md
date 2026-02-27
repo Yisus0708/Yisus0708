@@ -10,13 +10,7 @@ I'm currently working on **AI-based projects, automation tools, and software dev
 ---
 
 ## 🚀 Tech Stack & Skills
-- 🐍 Python  
-- 🤖 Artificial Intelligence (AI)  
-- 🧠 Machine Learning  
-- 📊 Data Analysis  
-- 🗄️ Databases & SQL  
-- 🌐 JavaScript  
-- ☕ Java  
+![My skill](https://skillicons.dev/icons?i=python,js,java,mysql,tensorflow)
 
 ---
 
