@@ -68,7 +68,9 @@ None of this was a tutorial. These were real problems for real people.
 ---
 
 <p align="center">
-  📫 <a href="https://www.instagram.com/jxsx__x0?igsh=NXpucXdqYjE5Zm9m">Instagram</a>
+  <a href="https://www.instagram.com/jxsx__x0?igsh=NXpucXdqYjE5Zm9m">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
