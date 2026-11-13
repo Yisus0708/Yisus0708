@@ -1,110 +1,110 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yisus0708&label=Profile%20views&color=2c5364&style=for-the-badge" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:171918,55:31472a,100:cb5a33&amp;height=210&amp;section=header&amp;text=Jesus%20Cantillo&amp;fontSize=48&amp;fontColor=f1f0e8&amp;fontAlignY=38&amp;desc=Backend%20Engineering%20%2F%20Applied%20AI&amp;descAlignY=60&amp;descSize=18" width="100%" alt="Jesus Cantillo — Backend Engineering / Applied AI" />
+
+### From complex problems to software that works.
+
+Backend developer building practical AI systems, data pipelines, and automation.  
+Based in **Barranquilla, Colombia** · Open to projects and engineering roles.
+
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-31472A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yisus0708/Portfolio)
+[![Gmail](https://img.shields.io/badge/Let's_talk-CB5A33?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jesucantillo30%40gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-272B25?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jxsx__x0/)
+
+</div>
+
+---
+
+## What I work on
+
+I turn real workflows into useful software: APIs that connect services, pipelines that make messy data usable, and AI tools that help people get things done.
+
+- **Backend engineering** — Python services, REST APIs, relational data modeling, and integrations.
+- **Applied AI** — Retrieval-augmented generation, local inference, multimodal document processing, and assistants.
+- **Data & automation** — Medallion pipelines, desktop tools, and repetitive workflow automation.
+
+I care about clear architecture, data privacy, and understanding the problem before choosing the tools.
+
+## Selected work
+
+### [MILA · Voice, vision, and desktop automation](https://github.com/Yisus0708/MILA)
+
+A desktop assistant that connects voice interaction and screen analysis with system tasks, file operations, and local applications.
+
+**Focus:** Bringing multimodal AI into everyday desktop workflows.  
+`Python` `PyQt6` `Gemini API` `Voice interfaces`
+
+### Mentia · AI-assisted code feedback
+
+A learning platform that reviews student code and provides contextual feedback on logic errors and programming patterns.
+
+**Focus:** Turning code review into a useful learning experience.  
+`FastAPI` `PostgreSQL` `Gemini API`
+
+### Medical records automation · Documents to structured data
+
+A multimodal workflow that processes medical PDFs from Google Drive and exports extracted information to Excel.
+
+**Focus:** Reducing repetitive transcription and organizing document-heavy workflows.  
+`Flask` `Gemini API` `Google Drive API` `Pandas`
+
+### RAG sales agent · Lead qualification
+
+An AI sales assistant that uses retrieval-augmented generation to support lead qualification for a car dealership.
+
+**Focus:** Connecting relevant business knowledge with customer conversations.  
+`Gemini API` `RAG` `Prompt engineering`
+
+<details>
+<summary><strong>Explore more engineering projects</strong></summary>
+
+- **[VivaIdiomas RAG](https://github.com/Yisus0708/vivaidiomas-rag)** — A local retrieval-augmented assistant built with FastAPI, Ollama, LangChain, and ChromaDB.
+- **[Medallion data pipeline](https://github.com/Yisus0708/arquitectura)** — Academic data processing through Bronze, Silver, and Gold layers with Python and PostgreSQL.
+- **[OCR & semantic PDF](https://github.com/Yisus0708/OCR-PDF)** — Document extraction and contextual search using OCR, embeddings, and spatial references.
+- **[NeuronForge](https://github.com/Yisus0708/neuronforge)** — Exploring neural network fundamentals, gradients, and backpropagation in Python.
+- **[FamilyBot](https://github.com/Yisus0708/FamilyBot)** — Household organization with shared tasks, schedules, and an integrated AI assistant.
+
+</details>
+
+## Tools I build with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,js,react,git,docker,linux&amp;perline=10" alt="Python, FastAPI, Flask, PostgreSQL, MongoDB, JavaScript, React, Git, Docker, and Linux" />
 </p>
 
-<!-- Encabezado con animación Twinkle activa -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Jesus%20Cantillo&fontSize=50&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Backend%20%2B%20Applied%20AI&descAlignY=60&descSize=20" />
-</p>
+**Backend & data**  
+Python · FastAPI · Flask · PostgreSQL · SQLAlchemy · Pandas · ETL
 
-<!-- Texto tipeado multilínea animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38EF7D&center=true&vCenter=true&width=600&lines=I+build+things+that+work%2C+not+demos.;while(learning)+%7B+build(something_real)+%7D;Done+is+better+than+perfect." />
-</p>
+**AI & retrieval**  
+Gemini API · Ollama · LangChain · ChromaDB · Embeddings · RAG · OCR
 
-<p align="center">
-  <em>"The expert in anything was once a beginner who refused to give up."</em>
-</p>
+**Interfaces & delivery**  
+PyQt6 · JavaScript · React · Git · Docker · Linux
 
-<!-- Separador Animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=4&section=header" width="100%" />
-</p>
+## How I approach engineering
 
-### 🚀 What I've built that actually runs in production
+1. **Start with the workflow.** Understand who uses the system and what needs to improve.
+2. **Make the architecture explainable.** Keep responsibilities clear and choose tools for a reason.
+3. **Treat data deliberately.** Consider validation, privacy, and where inference should run.
+4. **Build, learn, iterate.** Deliver something useful, then improve it with feedback.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> “The expert in anything was once a beginner who refused to give up.”
 
-**🧠 Mentia**  
-AI-powered learning platform that reviews student code in real time  
-`FastAPI` `PostgreSQL` `Gemini`
+## Around GitHub
 
-<br>
+Explore my **[public repositories](https://github.com/Yisus0708?tab=repositories)** and **[contribution activity](https://github.com/Yisus0708?tab=overview)** for the code behind these projects.
 
-**🏥 Medical records automation**  
-Multimodal AI that reads PDFs from Drive and exports results to Excel  
-`Flask` `Gemini API` `Google Drive API`
+## Let's build something useful
 
-</td>
-<td width="50%" valign="top">
+Have a backend challenge, a document workflow to automate, or an idea for an AI tool?
 
-**🎙️ MILA**  
-Voice assistant for your system: controls files and analyzes your PC  
-`PyQt6` `Gemini`
+**[Write to me on Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=jesucantillo30%40gmail.com)** · `jesucantillo30@gmail.com`
 
-<br>
+---
 
-**🚗 RAG sales agent**  
-Automatically qualifies leads for a car dealership  
-`Gemini` `RAG` `Prompt engineering`
+<div align="center">
 
-</td>
-</tr>
-</table>
+**Jesus Cantillo** · Barranquilla, Colombia  
+<sub>Curiosity, clear architecture, and software with a purpose.</sub>
 
-> *None of this was a tutorial. These were real problems for real people.*
-
-<!-- Separador Ondulado Animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2c5364,100:0f2027&height=40&section=header" />
-</p>
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,mongodb,js,react,tensorflow,git,vscode,docker&perline=6" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Architecture-2C5364?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:2c5364&height=40&section=header" />
-</p>
-
-### 📊 GitHub Activity & Stats
-
-<!-- Usando CDN espejo estable para evitar imágenes rotas -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yisus0708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38ef7d&icon_color=38ef7d" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yisus0708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38ef7d" height="165" alt="Top Languages" />
-</p>
-
-<!-- Tira de Actividad Animada de Commits -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yisus0708&theme=tokyonight&hide_border=true&background=0F2027&ring=2C5364&fire=38EF7D" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=4&section=header" width="100%" />
-</p>
-
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.instagram.com/jxsx__x0?igsh=NXpucXdqYjE5Zm9m">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<!-- Footer Animado Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&animation=fadeIn" />
-</p>
+</div>
