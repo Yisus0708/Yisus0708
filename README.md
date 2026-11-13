@@ -7,7 +7,7 @@
 Backend developer building practical AI systems, data pipelines, and automation.  
 Based in **Barranquilla, Colombia** · Open to projects and engineering roles.
 
-[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-31472A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yisus0708/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-31472A?style=for-the-badge&logo=github&logoColor=white)](https://yisus0708.github.io/Portfolio/)
 [![Gmail](https://img.shields.io/badge/Let's_talk-CB5A33?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jesucantillo30%40gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-272B25?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jxsx__x0/)
 
